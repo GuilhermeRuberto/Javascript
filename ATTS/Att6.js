@@ -4,7 +4,7 @@ const arr1 = [];
 const pares = [];
 const impares = [];
 
-var ver=true
+let ver=true
 let i=0
 
 console.log("Digite os numeros quando quiser parar digite 'PARE'")
