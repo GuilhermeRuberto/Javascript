@@ -1,3 +1,7 @@
+/*    Diego Paiani Cardoso  30/09/2024
+*     Programação orientada a objetos
+*     Classes e herança
+*/
 class Animal{
     constructor(nome, idade){
         this.nome = nome;
